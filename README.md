@@ -8,8 +8,8 @@ This is a hobby project site. I dabble in retro gaming devices (I own 3x Anberni
 
 - 🌱 Currently learning: GitHub, iPod Classic restoration
 - 🔭 Working on: Trail running & getting back in shape to compete in triathlon again
-- 🌍 Languages: I plan to resurrect my computer science degree skills starting with Python
-- 📫 How to reach me: I'm off most of the social media these days so LinkedIn is the best way to reach me
+- 🌍 Languages: I plan to resurrect my computer science degree skills, starting with Python
+- 📫 How to reach me: I'm off most of the social media these days, so LinkedIn is the best way to reach me
 - ⚡ Fun fact: I love music and retro games. Check out what I'm playing [here](https://retroachievements.org/user/Ruttin)
 
 ## GitHub Spark Apps I'm Building (Requires GitHub)
