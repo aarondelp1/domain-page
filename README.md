@@ -4,7 +4,7 @@
 
 I'm the co-host/co-founder of The Cloudcast podcast, the world's largest independent podcast on cloud computing and emerging tech with over 15 million downloads to date. I'm an AI and emerging tech junkie, and I have a passion for learning and sharing. My day job is creating technical content for AI.
 
-This is a hobby project site. I dabble in retro gaming devices (I own 3x Anbernics at the moment). I'm working my way through old games using retroachievements.org (link to profile below). I'm also working on restoring a 5th-gen iPod to 2025 standards for lossless music, and I'll be posting about that later this fall, including some code I want to write to fill a few gaps to make that happen.
+This is a hobby project site. I dabble in retro gaming, and I'm working my way through old games using retroachievements.org (link to profile below). I'm also working on restoring a 5th-gen iPod to 2025 standards for lossless music, and I'll be posting about that later this fall, including some code I want to write to fill a few gaps to make that happen.
 
 - 🌱 Currently learning: GitHub, iPod Classic restoration
 - 🔭 Working on: Trail running & getting back in shape to compete in triathlon again
