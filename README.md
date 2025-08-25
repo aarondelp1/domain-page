@@ -12,11 +12,6 @@ This is a hobby project site. I dabble in retro gaming, and I'm working my way t
 - 📫 How to reach me: I'm off most of the social media these days, so LinkedIn is the best way to reach me
 - ⚡ Fun fact: I love music and retro games. Check out what I'm playing [here](https://retroachievements.org/user/Ruttin)
 
-## GitHub Spark Apps I'm Building (Requires GitHub)
-
-- [Aaron's Music Catalog](https://music-catalog-manage--aarondelp1.github.app/)
-- [Aaron's AI Powered Marketing Assistant (The Spark Tutorial)](https://ai-powered-marketing--aarondelp1.github.app/)
-
 ## Get in Touch 📬
 
 - [The Cloudcast Podcast](https://www.thecloudcast.net)
